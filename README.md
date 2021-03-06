@@ -1,16 +1,14 @@
 # AWS Solution Architect
 
-한국 노땅 개발자.    
+노우~땅 개발자.    
 IT 기반 시스템 & 각종 소프트웨어 서비스가 클라우드로 옮겨가는 추세이다.    
 거스를 수 없는 대세를 따라 AWS Solution Architect를 공부하기로 했다.    
 기왕 하는 김에 자격증도 취득하고...    
 이후에는 AWS Developer도 도전해보자.  
-#   
 <br>
 
 # 학습 목록
 <br>
-
 
 ## 1. AWS 개요
 ### 1.1. [기본 개념](https://github.com/JinKeonsu/AWS_SA/blob/main/Intro/basic_concept.md)
