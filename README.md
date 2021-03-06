@@ -10,10 +10,9 @@ IT 기반 시스템 & 각종 소프트웨어 서비스가 클라우드로 옮겨
 
 # 학습 목록
 <br>
-#   
 
 
-## 1. 개요
+## 1. AWS 개요
 ### 1.1. [기본 개념](https://github.com/JinKeonsu/AWS_SA/blob/main/Intro/basic_concept.md)
 ### 1.2. 활용 사례
 ### 1.3. Region, AZ
