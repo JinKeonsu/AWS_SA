@@ -22,6 +22,10 @@ IT 시스템 & 서비스가 클라우드로 옮겨가는 추세이다.
 ## 1.5. Elastic IP
 ## 1.6. IAM
 
+
+
+
+
 # 2. EC2
 ## 2.1. [EC2 인스턴스](https://github.com/JinKeonsu/AWS_SA/blob/main/EC2/ec2_basic.md)
 ## 2.2. EC2 인스턴스에서 EBS 사용하기
